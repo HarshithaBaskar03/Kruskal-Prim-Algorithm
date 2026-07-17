@@ -78,7 +78,7 @@ Total MST Cost: 39
 ## Run
 
 ```bash
-mst_algorithms.py
+python mst_algorithms.py
 ```
 
 ## Concepts Used
